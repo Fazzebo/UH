@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ulangan Kimia Lingkungan</title>
+</head>
+<body>
+  <h1>Menampilkan Gambar di HTML</h1>
+  <p>
+    <img src="sawah.jpg" />
+  </p>
+</body>
+</html>
