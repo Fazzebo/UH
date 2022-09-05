@@ -7,7 +7,8 @@
 <body>
   <h1>Menampilkan Gambar di HTML</h1>
   <p>
-    <img src="sawah.jpg" />
+    <img src="Kimia-1">
   </p>
+    <img src="Kimia-2">
 </body>
 </html>
